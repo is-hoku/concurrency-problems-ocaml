@@ -1,0 +1,4 @@
+(executable
+ (public_name concurrency_problems_ocaml)
+ (name producer_consumer_problem)
+ (libraries concurrency_problems_ocaml))

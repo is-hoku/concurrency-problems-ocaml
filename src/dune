@@ -1,0 +1,4 @@
+(library
+ (name concurrency_problems_ocaml)
+ (public_name concurrency_problems_ocaml)
+ (libraries threads))
